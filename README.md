@@ -17,7 +17,7 @@ This is an example to show the differences in colour within Tabris.js
 
 
 ## I change the colours in the code to represent what it's wanting to find, and it works!
-[Function](https://github.com/mballent/tabrisportfolio/blob/master/Function.png)
+![Function](https://github.com/mballent/tabrisportfolio/blob/master/Function.png)
 
 ## Final Code as Per File
 ![Final Code](https://github.com/mballent/tabrisportfolio/blob/master/Full%20Screen%20of%20Finished%20Code.png)
