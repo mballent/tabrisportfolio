@@ -21,3 +21,6 @@ This is an example to show the differences in colour within Tabris.js
 
 ## Final Code as Per File
 ![Final Code](https://github.com/mballent/tabrisportfolio/blob/master/Full%20Screen%20of%20Finished%20Code.png)
+
+# Link to the playground
+![Code](https://github.com/mballent/tabrisportfolio/blob/master/Code.png)
